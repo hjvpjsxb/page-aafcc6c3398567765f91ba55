@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.qingtongxiaai.cn/sitemap.xml
